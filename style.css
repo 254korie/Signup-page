@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(164, 164, 245);
+}
+margin{
+   box-sizing: border-box
+}
+.container{
+padding: 20px;
+background-color: rgb(243, 229, 211);
+position: fixed;
+}
